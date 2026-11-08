@@ -19,6 +19,7 @@ I'm a software developer and SaaS founder working on impactful products like **L
 
 ### 🚀 Projects
 
+- 🔹 [Livestreamsaver](https://livestreamsaver.com) – Auto monitor and auto records live streams from various social media platforms.
 - 🔹 [Adxpot](https://adxpot.com) – Monetize your viral tweets by allowing ad placements from businesses.
 - 🔹 [Xcanner](https://xcanner.com) – A real-time Twitter keyword monitor.
 
